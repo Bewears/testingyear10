@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title> Cassette</title>
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,900" rel="stylesheet">
+<link rel="icon" href="images/icelogov3.png">
+</head>
+
+<body>
+    <div class="container">
+        <a href="itchy.html"><img src="images/tape.gif" alt="tape" class="tape"></a>
+        <div class="centered">
+            <h7 class="h7"><br><b>WEBPAGE</b></h7>
+        </div>
+    </div>
+    <header>
+        <div class="nav">
+            <ul>
+                <li class="active"><a href="index.html">Home</a></li>
+                <li class="photography"><a href="photography.html">Photography</a></li>
+                <li class="about"><a href="aboutme.html">About Me</a></li>
+                <div class="dropdown">
+                    <button class="dropbtn">Technology </button>
+                    <div class="dropdown-content">
+                        <a href="technology.html">Resize an image</a>
+                        <a href="technology2.html">.JPG to .PNG</a>
+                        <a href="technology3.html">Crop an Image</a>
+                        <a href="technology4.html">Add a Filter</a>
+                    </div>
+                </div>
+                <li class="contact"><a href="contact.html">Contact </a></li>
+            </ul>
+        </div>
+    </header>
+    <audio autoplay>
+  <source src="music/CHARIOTS%20of%20FIRE%20theme%20song..mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>

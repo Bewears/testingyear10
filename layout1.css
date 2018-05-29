@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <link rel='stylesheet' href="style.css">
+    <title></title>
+</head>
+
+<body>
+
+    <header>
+        this is a header
+    </header>
+
+    <div class=main>
+
+        <div class=left>
+            this is some content on the left<br>
+            
+        </div>
+        <div class=right>
+            this is some content on the right
+        </div>
+
+
+        <div class=copyright>
+            this is where I place some more content
+        </div>
+
+    </div>
+    
+
+</body>
+</html>
